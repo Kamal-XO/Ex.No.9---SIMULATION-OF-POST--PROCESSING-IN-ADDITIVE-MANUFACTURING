@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output]()
+
+### Name:  Kamalesh SV
+### Register Number: 212222240041
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
