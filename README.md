@@ -47,7 +47,9 @@
 
 ## Output:
 
-![output]()
+![output](https://user-images.githubusercontent.com/118663725/242936159-137a7434-118f-4f43-9b71-b3ecf17e4427.png)
+![output](https://user-images.githubusercontent.com/118663725/242936188-827e428d-fab8-4445-b56c-013763471bc9.png)
+![output](https://user-images.githubusercontent.com/118663725/242936203-145438ef-fc5d-483b-a240-84995b893bb4.png)
 
 ### Name:  Kamalesh SV
 ### Register Number: 212222240041
